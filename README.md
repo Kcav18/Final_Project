@@ -110,6 +110,5 @@ Just my thoughts - thought I would go ahead and jot them here.
     
   **Results Usefullness
   
-   We believe that our predictive test will be useful to real estate developers, tourism, and business location. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge losses finacial and personal.
-  
+   We believe that our predictive test will be useful to real estate developers, locals, tourism, and business locations. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge losses finacial and personal. In addition this analysis could be used to make the city safer by identifying which areas see the most conflict so city administration can make the necessary changes to decrease criminal activity.
    
