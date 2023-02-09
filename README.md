@@ -65,6 +65,18 @@ predict the 'type' of crime that could occur in a specific neighborhood)
 See a detailed dashboard here: 
 )
 
+# Linear Regression Model
+
+The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
+
+ **Test
+   
+    We are thinking of using a linear regression model to predict the liklihood that a violent crime will occur in Charlotte. We will use the Charlotte dataset from the Charlotte Mecklenburg Police Department.
+ 
+ **Results Usefullness
+  
+   We believe that our predictive test will be useful to Real Estate Developers, Residents, Tourists, and Businesses. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge financial and personal losses. In addition, this analysis could be used to make the city safer by identifying which areas see the most crime. This can assist City Leaders in making the necessary changes to decrease criminal activity in the area.
+
 # SUMMARY
 Based on our analysis, we feel that Charlotte would be a _____ option for XY Jones.
 
@@ -78,18 +90,7 @@ Fiston Rugwiro is our team lead python and ETL responsible for getting us the da
 
 Brenton Ervin create data tables and oversee all documents for accuracy.
 
-# Linear Regression Model
-
-The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
-
- **Test
-   
-    We are thinking of using a linear regression model to predict the liklihood that a violent crime will occur in Charlotte. We will use the Charlotte dataset from the Charlotte Mecklenburg Police Department.
- 
- **Results Usefullness
   
-   We believe that our predictive test will be useful to Real Estate Developers, Residents, Tourists, and Businesses. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge financial and personal losses. In addition, this analysis could be used to make the city safer by identifying which areas see the most crime. This can assist City Leaders in making the necessary changes to decrease criminal activity in the area.
-   
 
 ***Previous Readme contents***
 - The selected topic and the reasoning for that selection (20 points)
