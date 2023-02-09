@@ -54,6 +54,7 @@ Steps:
 
 **Show crime stats for Atlanta and Chicago and then show crime stats for Charlotte**
 
+[Click here to view the Tableau Dashbord](https://public.tableau.com/app/profile/kcav18/viz/UNCCBootcampFinalProject/CMPDCrimeOverview?publish=yes)
 
 The machine learning model shows: 
 (
