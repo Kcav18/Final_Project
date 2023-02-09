@@ -76,7 +76,7 @@ Fiston Rugwiro is our team lead python and ETL responsible for getting us the da
 
 Brenton Ervin create data tables and oversee all documents for accuracy.
 
-**Regression
+# Liunear Regression Model
 
 The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previos data to predict violent crimes frequency and how much it will increase or decrease given a certain month. What we are hoping is to see strong correlations in th data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
 
