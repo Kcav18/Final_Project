@@ -4,14 +4,14 @@
 
 # OVERVIEW:
 
-Our client, Secret Jones is looking to relocate somewhere in the United States with their family. They have been living abroad for
+Our client, XY Jones is looking to relocate somewhere in the United States with their family. They have been living abroad for
 a long time and are ready to move back to the States. They would like a city that will not only provide a strong job and housing market, but a safe
 environment for their family. They have been looking to relocate to either Atlanta, Chicago, or Charlotte as their research shows that
 the job and real estate market is booming. However, before deciding on their relocation, they are very 
 interested in the violent crime data in those areas. How dangerous a place is will be a huge factor for them as their utmost concern is 
 the safety of their family.
 
-Secret Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our Charlotte based company to perform a similar analysis for Charlotte, NC. 
+XY Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our Charlotte based company to perform a similar analysis for Charlotte, NC. 
 
 We have been tasked with analyzing the type of crimes occuring in Charlotte, how often a crime occurs, and which 
 area of Charlotte tends to see the most crime. 
