@@ -66,10 +66,19 @@ See a detailed dashboard here:
 # SUMMARY
 Based on our analysis, we feel that Charlotte would be a better/worse option for XY Jones.
 
+# Team
 
+Ryan Marshall is going to develope the machine learning and will develop a linear regression model.
 
+Kimberly Cavazos is our team lead visual design and will utlize the Tableau to give visual context to the data and our results of our test.
 
+Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in otder to test.
 
+Brenton Ervin create data tables and oversee all documents for accuracy.
+
+**Regression
+
+The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previos data to predict violent crimes frequency and how much it will increase or decrease given a certain month. What we are hoping is to see strong correlations in th data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
 
 
 
