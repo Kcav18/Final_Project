@@ -2,7 +2,7 @@
 
 # Final Project for UNCC Data Analytics Bootcamp
 
-# Overview:
+# OVERVIEW:
 
 Our client, Secret Jones is looking to relocate somewhere in the United States with their family. They have been living abroad for
 a long time and are ready to move back to the States. They would like a city that will not only provide a strong job and housing market, but a safe
@@ -24,11 +24,12 @@ We have pulled data from several sources to analyze the where and the type of cr
 has come from the Charlotte Mecklenburg Police Department and the FBI's National Incident-Based Reporting System. 
 
 Dataset:
-Violent_Crime (CMPD Data portal)
-CMPD_Incidents
+[CMPD Data portal](https://data.charlottenc.gov/search?collection=Dataset)
 
+- CMPD_Violent Crime
+- CMPD_Incidents
+- [Google Drive Link for CSV Files](https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing)
 *Please note that the data files are too large to be uploaded to our repository so we have included a link to a Google drive folder that houses those files.*
-[Google Drive Link for CSV Files](https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing)
 
 Programs used:
 Python for data cleaning and analysis
@@ -51,6 +52,8 @@ Steps:
 		
 
 # RESULTS
+
+# Visualization
 
 **Show crime stats for Atlanta and Chicago and then show crime stats for Charlotte**
 
@@ -89,27 +92,6 @@ Kimberly Cavazos is our team lead visual design and will utlize the Tableau to g
 Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in otder to test.
 
 Brenton Ervin create data tables and oversee all documents for accuracy.
-
-  
-
-***Previous Readme contents***
-- The selected topic and the reasoning for that selection (20 points)
-- A description of the data (20 points)
-- The questions that the team plans to answer with the project (20 points)
-
-
-[CMPD Data Portal](https://data.charlottenc.gov/search?collection=Dataset)
-
-This portal has a dataset called "CMPD Violent Crime."
-- It contains the year and type of crime committed. It does not specifically list the location but does provide an "NPA" code per crime. That stands for "neighborhood profile area." 
-- The NPA code can be linked with other datasets and shapefiles to get locations across the CMPD area. (Trying to find how to link them).
-- There are other crime datasets available (such as crimes that are ***not*** considered "violent")
-
-Ideas:
-
-- Machine Learning: Probability of a violent crime occuring in a specific zipcode/neighborhood area.
-- Machine Learning: Predicting which month has the highest liklihood of violent crime.
-- Could combine the crime that is labeled violent and the crime that is not considered violent - and then predict the 'type' of crime that could occur in a specific neighborhood
 
 **Hypothesis
    
