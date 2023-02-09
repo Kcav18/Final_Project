@@ -1,3 +1,5 @@
+![Charlotte Image](https://github.com/Kcav18/Final_Project/blob/main/Images/Charlotte_uptown.jpeg)
+
 # Final Project for UNCC Data Analytics Bootcamp
 
 # Overview:
@@ -9,8 +11,7 @@ the job and real estate market is booming. However, before deciding on their rel
 interested in the violent crime data in those areas. How dangerous a place is will be a huge factor for them as their utmost concern is 
 the safety of their family.
 
-Secret Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our company to perform a similar analysis for Charlotte,
-NC. 
+Secret Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our Charlotte based company to perform a similar analysis for Charlotte, NC. 
 
 We have been tasked with analyzing the type of crimes occuring in Charlotte, how often a crime occurs, and which 
 area of Charlotte tends to see the most crime. 
@@ -26,13 +27,13 @@ Dataset:
 Violent_Crime (CMPD Data portal)
 CMPD_Incidents
 
-(Google Drive for CSV downloads as they are too big for Github)[https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing]
+*Please note that the data files are too large to be uploaded to our repository so we have included a link to a Google drive folder that houses those files.*
+[Google Drive Link for CSV Files](https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing)
 
 Programs used:
 Python for data cleaning and analysis
 
 Tableau for visualization.
-
 
 Steps:
 
@@ -46,7 +47,7 @@ Steps:
 	- Charlotte compared to the United States as Whole
 	- Charlotte compared to Atlanta and Chicago
 - Machine Learning
-	- Probability of ... 
+	- Linear Regression Model to predict the liklihood of a crime occuring during a specific month or day.
 		
 
 # RESULTS
@@ -64,7 +65,7 @@ See a detailed dashboard here:
 )
 
 # SUMMARY
-Based on our analysis, we feel that Charlotte would be a better/worse option for XY Jones.
+Based on our analysis, we feel that Charlotte would be a _____ option for XY Jones.
 
 # Team
 
@@ -78,7 +79,7 @@ Brenton Ervin create data tables and oversee all documents for accuracy.
 
 # Liunear Regression Model
 
-The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previos data to predict violent crimes frequency and how much it will increase or decrease given a certain month. What we are hoping is to see strong correlations in th data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
+The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
 
 
 
@@ -86,8 +87,6 @@ The reason we are using a regression model is to predict the frequency of violen
 - The selected topic and the reasoning for that selection (20 points)
 - A description of the data (20 points)
 - The questions that the team plans to answer with the project (20 points)
-
-*Location of data (link to google drive)
 
 
 [CMPD Data Portal](https://data.charlottenc.gov/search?collection=Dataset)
@@ -103,8 +102,6 @@ Ideas:
 - Machine Learning: Predicting which month has the highest liklihood of violent crime.
 - Could combine the crime that is labeled violent and the crime that is not considered violent - and then predict the 'type' of crime that could occur in a specific neighborhood
 
-Just my thoughts - thought I would go ahead and jot them here. 
-
 **Hypothesis
    
    Our group decided to use violent crimes in Charlotte data sourced from City Of Charlotte? database:https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/explore?location=35.261391%2C-80.809400%2C10.50&showTable=true
@@ -115,9 +112,9 @@ Just my thoughts - thought I would go ahead and jot them here.
     
  **Test
    
-    We are thinking of using a linear regression model to predict the likely hood that a violent crime will happen to you in charlotte using the charlotte database we will should be able to determine in what area/zipcode where these crimes happen.
+    We are thinking of using a linear regression model to predict the liklihood that a violent crime will occur in Charlotte. We will use the Charlotte dataset from the Charlotte Mecklenburg Police Department.
     
   **Results Usefullness
   
-   We believe that our predictive test will be useful to real estate developers, locals, tourism, and business locations. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge losses finacial and personal. In addition this analysis could be used to make the city safer by identifying which areas see the most conflict so city administration can make the necessary changes to decrease criminal activity.
+   We believe that our predictive test will be useful to Real Estate Developers, Residents, Tourists, and Businesses. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge financial and personal losses. In addition, this analysis could be used to make the city safer by identifying which areas see the most crime. This can assist City Leaders in making the necessary changes to decrease criminal activity in the area.
    
