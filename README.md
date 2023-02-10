@@ -91,7 +91,7 @@ Kimberly Cavazos is our team lead visual design and will utlize the Tableau to g
 
 Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in otder to test.
 
-Brenton Ervin create data tables and oversee all documents for accuracy.
+Brenton Ervin is going to create a Entity relationship diagram with postgres and oversee all documents for accuracy.
 
 **Hypothesis
    
