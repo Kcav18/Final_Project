@@ -4,14 +4,14 @@
 
 # OVERVIEW:
 
-Our client, XY Jones is looking to relocate somewhere in the United States with their family. They have been living abroad for
+Our client, Secret Jones is looking to relocate somewhere in the United States with their family. They have been living abroad for
 a long time and are ready to move back to the States. They would like a city that will not only provide a strong job and housing market, but a safe
 environment for their family. They have been looking to relocate to either Atlanta, Chicago, or Charlotte as their research shows that
 the job and real estate market is booming. However, before deciding on their relocation, they are very 
 interested in the violent crime data in those areas. How dangerous a place is will be a huge factor for them as their utmost concern is 
 the safety of their family.
 
-XY Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our Charlotte based company to perform a similar analysis for Charlotte, NC. 
+Secret Jones has already received an analysis of crime data for Atlanta and Chicago and has asked our Charlotte based company to perform a similar analysis for Charlotte, NC. 
 
 We have been tasked with analyzing the type of crimes occuring in Charlotte, how often a crime occurs, and which 
 area of Charlotte tends to see the most crime. 
@@ -43,38 +43,23 @@ Steps:
 	- Clean the dataset (remove nulls)
 	- Ensure correct data types
 - Data Visualization
-	- Heat map of crime data
-	- Chart showing crime data over the years
-	- Charlotte compared to the United States as Whole
-	- Charlotte compared to Atlanta and Chicago
+
 - Machine Learning
-	- Linear Regression Model to predict the liklihood of a crime occuring during a specific month or day.
-		
+	- We are using a linear regression model to predict the frequency of violent crimes occuring per month. 
 
 # RESULTS
 
 # Visualization
 
-**Show crime stats for Atlanta and Chicago and then show crime stats for Charlotte**
-
 [Click here to view the Tableau Dashbord](https://public.tableau.com/app/profile/kcav18/viz/UNCCBootcampFinalProject/CMPDCrimeOverview?publish=yes)
-
-The machine learning model shows: 
-(
--Probability of a violent crime occuring in a specific zipcode/neighborhood area.
--Machine Learning: Predicting which month has the highest liklihood of violent crime.
--Could combine the crime that is labeled violent and the crime that is not considered violent - and then 
-predict the 'type' of crime that could occur in a specific neighborhood)
-See a detailed dashboard here: 
-)
 
 # Linear Regression Model
 
-The reason we are using a regression model is to predict the frequency of violent crimes in Charlotte. A linear regressing model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
+Using the counts of crime per month, we will predict how many crimes will occur in the next time period. A linear regression model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
 
  **Test
    
-    We are thinking of using a linear regression model to predict the liklihood that a violent crime will occur in Charlotte. We will use the Charlotte dataset from the Charlotte Mecklenburg Police Department.
+    We are thinking of using a linear regression model to predict the frequency of violent crimes occuring per month. We will use the Charlotte dataset from the Charlotte Mecklenburg Police Department.
  
  **Results Usefullness
   
@@ -85,22 +70,14 @@ Based on our analysis, we feel that Charlotte would be a _____ option for XY Jon
 
 # Team
 
-Ryan Marshall is going to develope the machine learning and will develop a linear regression model.
+Ryan Marshall is going to develop the machine learning and will develop a linear regression model.
 
 Kimberly Cavazos is our team lead visual design and will utlize the Tableau to give visual context to the data and our results of our test.
 
-Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in otder to test.
+Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in order to test.
 
-Brenton Ervin is going to create a Entity relationship diagram with postgres and oversee all documents for accuracy.
+Brenton Ervin is going to import everything into Postgress and feed into the ML Model.
 
-**Hypothesis
-   
-   Our group decided to use violent crimes in Charlotte data sourced from City Of Charlotte? database:https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/explore?location=35.261391%2C-80.809400%2C10.50&showTable=true
-
-**Question
-   
-    What is the probability that you would experience a violent crime in charlotte?
-    
 
     
 
