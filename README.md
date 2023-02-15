@@ -27,6 +27,8 @@ Violent_Crime (CMPD Data portal)
 CMPD_Incidents
 
 (Google Drive for CSV downloads as they are too big for Github)[https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing]
+(Google drive for clean CSV dataset)
+[https://drive.google.com/drive/folders/1MMOF-4bd-cu3chA_8J71mp4f7Hw5S3X6?usp=share_link]
 
 Programs used:
 Python for data cleaning and analysis
