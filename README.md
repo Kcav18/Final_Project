@@ -72,7 +72,7 @@ Based on our analysis, we feel that Charlotte would be a _____ option for XY Jon
 
 Ryan Marshall is going to develop the machine learning and will develop a linear regression model.
 
-Kimberly Cavazos is our team lead visual design and will utlize the Tableau to give visual context to the data and our results of our test.
+Kimberly Cavazos is our team lead visual design and will utlize Tableau to give visual context to the data and the results of our test. She will also put the final presentation together.
 
 Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in order to test.
 
