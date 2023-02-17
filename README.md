@@ -60,6 +60,8 @@ Using the counts of crime per month, we will predict how many crimes will occur 
  **Purpose of Model
   
    We believe that our predictive test will be useful to Real Estate Developers, Residents, Tourists, and Businesses. It can show which month of the year will see the most crime. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge financial and personal losses. In addition, this analysis could be used to make the city safer by identifying which areas see the most crime. This can assist City Leaders in making the necessary changes to decrease criminal activity in the area.
+   
+**Week of 2/16/23: We have ran into issues getting the model to work. Ryan is working with Antonio tonight to get the model working more effectively. We need to update the variables to predict type of crime by month** 
 
 # SUMMARY
 Based on our analysis, we feel that Charlotte would be a safe enough option for Secret Jones. According to our Heat Map, the northern part of the county would be the safest area.
