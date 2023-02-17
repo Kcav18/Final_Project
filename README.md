@@ -29,6 +29,7 @@ Dataset:
 - CMPD_Violent Crime
 - CMPD_Incidents
 - [Google Drive Link for CSV Files](https://drive.google.com/drive/folders/1DmRuIMXm8oksUcNZeLepODC1HEzg_G38?usp=sharing)
+- Google link for SQL Setup https://drive.google.com/drive/folders/1jZD2btjfZurDcPYr0KOe385xIo9teloL
 *Please note that the data files are too large to be uploaded to our repository so we have included a link to a Google drive folder that houses those files.*
 
 Programs used:
