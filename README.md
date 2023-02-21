@@ -76,7 +76,7 @@ Kimberly Cavazos is our team lead visual design and will utlize Tableau to give 
 
 Fiston Rugwiro is our team lead python and ETL responsible for getting us the data cleaned in order to test.
 
-Brenton Ervin is going to import everything into Postgress and revviewing all project elements.
+Brenton Ervin is going to import everything into Postgress and reviewing all project elements.
 
 
     
