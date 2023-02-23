@@ -47,20 +47,23 @@ Steps:
 
 # RESULTS
 
-# Visualization
+## Visualization
 
 [Click here to view the Tableau Dashbord](https://public.tableau.com/app/profile/kcav18/viz/UNCCBootcampFinalProject/CMPDCrimeOverview?publish=yes)
 
-# Linear Regression Model
+## Linear Regression Model
 
 Using the counts of crime per month, we will predict how many crimes will occur in the next time period. A linear regression model is used to predict a continous variable, which in our case is crime. Utilizing the data from the CMPD database we can break the data into months and then use previous data to predict violent crimes frequency and how much it will increase or decrease given a certain month or day. What we are hoping is to see strong correlations in the data that will help determine how dangerous Charlotte is; by determining the frequency of crimes with our model.
 
- ## Purpose of Model
+ ### Purpose of Model
   
    We believe that our predictive test will be useful to Real Estate Developers, Residents, Tourists, and Businesses. It can show which month of the year will see the most crime. This data could be used to prevent civilians and businesses from making costly errors that could lead to huge financial and personal losses. In addition, this analysis could be used to make the city safer by identifying which areas see the most crime. This can assist City Leaders in making the necessary changes to decrease criminal activity in the area.
+  
+Unfortunately, our Machine Learning model did not work as we intended so we were unable to predict the frequency of crimes with our model.
    
-# SUMMARY
 Based on our analysis, we feel that Charlotte would be a safe enough option for Secret Jones. According to our Heat Map, the northern part of the county would be the safest area.
+
+# SUMMARY
 
 # ROADBLOCKS
 - We have ran into multiple issues getting the machine model to work. Ryan has worked extensively with our instructors to get the model working more effectively. 
